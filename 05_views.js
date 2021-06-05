@@ -91,7 +91,7 @@ const post_test = magpieViews.view_generator("post_test", {
 const thanks = magpieViews.view_generator("thanks", {
   trials: 1,
   name: 'thanks',
-  title: 'Thank you for taking part in this experiment!',
+  title: 'Thank you for taking part in the  Jedi Mental Rotation training camp!',
   prolificConfirmText: 'Press the button'
 });
 

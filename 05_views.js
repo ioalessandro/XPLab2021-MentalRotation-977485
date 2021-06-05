@@ -128,7 +128,7 @@ const practice = magpieViews.view_generator("key_press", {
 const main = magpieViews.view_generator("key_press", {
       name: 'main',
       trials: 48,
-      data: _.shuffle(practice_trials.key_press),
+      data: _.shuffle(main_trials.key_press),
       pause: 250,
 });
 

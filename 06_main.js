@@ -40,6 +40,7 @@ $("document").ready(function() {
             in: [
                 // list the view-names of the views for which you want a progress bar
                 practice.name,
+                main.name,
             ],
              // Possible styles are "default", "separate" and "chunks"
             style: "separate",
